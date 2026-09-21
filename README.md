@@ -10,6 +10,19 @@ A gothic investigation game about examining death orders, weighing evidence, and
 | :--- | :--- | :--- |
 | In development · Playable prototype | Unity · C# | Public project showcase |
 
+## Screenshots
+
+Screenshots from development builds. Interface and features may change before release.
+
+<img src="screenshot-01.png" alt="Hospital investigation scene" width="960">
+
+*Hospital investigation scene*
+
+<img src="screenshot-02.png" alt="Deduction board" width="960">
+
+*Deduction board*
+
+
 ## The experience
 
 - Investigate atmospheric cases as a junior reaper.
